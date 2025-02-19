@@ -1,0 +1,18 @@
+In computer vision tasks, class imbalance is usually handled by,
+1. Augmentation
+2. Oversampling
+3. Undersampling
+4. Assigining Class weight
+5. Transfer Learning
+
+Augmentation refers to the process of generating images by performing geometrical rotation, scaling, flipping etc.
+
+Oversampling refers to increasing the number of images in minority classes to balance the dataset.
+
+Undersampling does the opposite of oversampling which is reducing the number of images in majority classes and balance the dataset.
+
+In Class weights, higher weights are assigned to underrepresented classes in the loss function. This allows the neural network to adjust the weights while training the model to get the best suited accuracy and lowest loss.
+
+Transfer Learning refers the usage of pretrained models on balanced datasets and then finetuning them on the imbalanced dataset to improve generalization.
+
+In most of the cases, Augmenatation and class weights are used in processes related to computer vision such as classification, segmentation, detection etc.
