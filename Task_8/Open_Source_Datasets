@@ -1,0 +1,14 @@
+Objects can be defined as a thing that can be see or touched but that is not usually a living animal, plant, or person. It can be a solid material or physical object.
+In Image classification tasks for computer vision, several open source datasets are utilised. They can also be used for ibject recognition or detection. They can be listed as,
+1. COCO(Common Objects in Context):
+This dataset includes,
+(a) 80 object categories, the “COCO classes”, which include “things” for which individual instances may be easily labeled (person, car, chair, etc.)
+(b) 91 stuff categories, where “COCO stuff” includes materials and objects with no clear boundaries (sky, street, grass, etc.) that provide significant contextual information.
+2. Pascal VOC (Visual Object Classes):
+This dataset contains 20 object categories with high-quality bounding boxes and well-defined object categories.
+3. ObjectNet3D:
+This benchmark dataset caters specifically to 3D object detection and recognition. The collection comprises photos of 3D objects from the top, bottom, front, and rear perspectives with 200 common object classes.
+4. Open Images V7:
+The dataset contains over 9 million training images with 16M bounding boxes for 600 object classes on 1.9M images.
+5. ImageNet:
+This dataset has more than 1,000 categories of objects or people with many images associated with them. There are variations of ImageNet Dataset such as ImageNet-1K, ImageNet-21K and so on based on the number of classes.
