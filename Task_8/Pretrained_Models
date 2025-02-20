@@ -1,0 +1,20 @@
+For classification tasks, there are several pretrained models available such as,
+1. ResNet
+2. VGG
+3. EfficientNet
+4. Inception
+5. MobileNet
+6. Xception
+7. DenseNet
+
+They all have different use cases depending on the requirements of the project.
+
+If the project requires a model that can run on edge devices or mobile friendly, MobileNet is best suited as it has low computational complexity
+
+If there is no limitation on computational complexity, Inception can be used which uses a sparse convolutional network.
+
+ResNet and EfficientNet are widely used for object classification as they are moderate in complexity and trainable parameters and offers relatively good accuracy
+
+Xception is combines the features from Inception and ResNet to create a model for object classification.
+
+These are the most popular object classification pretrained models that are being utilised.
