@@ -50,5 +50,5 @@ with "A" or "D".
 - [ ] **Task 6** - *(Not Started)*  
 - [ ] **Task 7** - *(Not Started)* 
 - [x] **Task 8** - Open Source Datasets & Handling Class Imbalance (`Task_8/`)
-- [ ] **Task 5** - *(Not Started)*  
+- [ ] **Task 9** - *(Not Started)*  
  
