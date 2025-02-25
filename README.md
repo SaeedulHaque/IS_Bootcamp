@@ -31,7 +31,8 @@ with "A" or "D".
  **Subtasks:**
 - [Handling Class Imbalance](Task_8/Handling_Class_Imbalance)  
 - [Open Source Datasets](Task_8/Open_Source_Datasets)  
-- [Pretrained Models](Task_8/Pretrained_Models)  
+- [Pretrained Models](Task_8/Pretrained_Models)
+- [Code](Task_8/bootcamp-sample.ipynb)  
 
 ---
 
@@ -51,4 +52,3 @@ with "A" or "D".
 - [ ] **Task 7** - *(Not Started)* 
 - [x] **Task 8** - Open Source Datasets & Handling Class Imbalance (`Task_8/`)
 - [ ] **Task 9** - *(Not Started)*  
- 
